@@ -1,0 +1,14 @@
+@font-face {
+    src: url("CursedTimerULiL.ttf");
+    font-family: "CursedTimerULiL";
+}
+
+body {
+    margin: 0;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
