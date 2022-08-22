@@ -1,18 +1,24 @@
-let score = 0
+let hScore = 0
+let gScore = 0
 let homeScore = document.getElementById("home-score")
 let guestScore = document.getElementById("guest-score")
 
 function home1() {
-    score += 1
-    homeScore.textContent = score
+    hScore += 1
+    homeScore.textContent = hScore
 }
 
 function home2() {
-    score += 2
-    homeScore.textContent = score
+    hScore += 2
+    homeScore.textContent = hScore
 }
 
 function home3() {
-    score += 3
-    homeScore.textContent = score
+    hScore += 3
+    homeScore.textContent = hScore
+}
+
+function guest1() {
+    gScore+=1
+    guestScore.textContent = gScore
 }
