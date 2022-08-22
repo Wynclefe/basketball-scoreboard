@@ -11,3 +11,8 @@ function home2() {
     score += 2
     homeScore.textContent = score
 }
+
+function home3() {
+    score += 3
+    homeScore.textContent = score
+}
