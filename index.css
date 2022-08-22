@@ -20,7 +20,7 @@ body {
     border-radius: 20px;
     padding-bottom: 20px;
     background: linear-gradient(#89BBFE, white);
- 
+    max-width: 100%;
 }
 
 .score {
