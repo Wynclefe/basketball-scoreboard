@@ -14,6 +14,7 @@ body {
 .container {
     display: flex;
     justify-content: space-around;
+ 
     
 
 }
@@ -30,6 +31,7 @@ font-size: 90px;
 line-height: 127px;
 font-family: CursedTimerULiL;
 color: #F94F6D;
+margin-top: 0px;
 }
 
 .team {
@@ -38,4 +40,6 @@ color: #F94F6D;
     font-weight: 700;
     font-size: 40px;
     line-height: 36px;
+    margin-top: 50px;
+    margin-bottom: 20px;
 }
