@@ -14,5 +14,16 @@ body {
 .container {
     display: flex;
     justify-content: space-around;
+    
 
+}
+
+.score {
+width: 155px;
+height: 120px;
+left: 82px;
+top: 125px;
+
+background: #080001;
+border-radius: 5px;
 }
