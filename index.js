@@ -27,3 +27,8 @@ function guest2() {
     gScore+=2
     guestScore.textContent = gScore
 }
+
+function guest3() {
+    gScore+=3
+    guestScore.textContent = gScore
+}
